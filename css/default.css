@@ -11887,3 +11887,6 @@ body.dark .breadcrumb li.is-active a {
   color: #fff;
 }
 @import url("https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css");
+.utterances {
+  max-width: none;
+}
