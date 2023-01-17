@@ -11768,9 +11768,6 @@ body.dark #back-to-top {
 body.dark .column-main .card {
   border-bottom: 1px solid #3c3c3c;
 }
-body.dark .content {
-  border: 1px solid #37373d;
-}
 body.dark .content h1,
 body.dark .content h2,
 body.dark .content h3,
@@ -11828,9 +11825,6 @@ body.dark code {
   color: #d16969;
 }
 body.dark article.article {
-  border: 1px solid #37373d;
-}
-body.dark img {
   border: 1px solid #37373d;
 }
 body.dark .searchbox {
