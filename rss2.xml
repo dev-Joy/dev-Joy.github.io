@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Joy&#39;s dev log</title>
+    <link>https://dev-joy.github.io/</link>
+    
+    <atom:link href="https://dev-joy.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Thu, 01 Jun 2023 13:50:04 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>태블로 UDT 4기 day9</title>
+      <link>https://dev-joy.github.io/2023/05/26/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day10/</link>
+      <guid>https://dev-joy.github.io/2023/05/26/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day10/</guid>
+      <pubDate>Fri, 26 May 2023 13:13:29 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;총 복습&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;DAY-10-비즈니스-질문-해결하기&quot;&gt;&lt;a href=&quot;#DAY-10-비즈니스-질문-해결하기&quot; class=&quot;headerlink&quot; </description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>총 복습</p></blockquote><h1 id="DAY-10-비즈니스-질문-해결하기"><a href="#DAY-10-비즈니스-질문-해결하기" class="headerlink" title="[DAY 10] 비즈니스 질문 해결하기"></a>[DAY 10] 비즈니스 질문 해결하기</h1><img src="/2023/05/26/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day10/tableau_udt.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/05/26/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day10/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로 UDT 4기 day9</title>
+      <link>https://dev-joy.github.io/2023/05/25/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day9/</link>
+      <guid>https://dev-joy.github.io/2023/05/25/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day9/</guid>
+      <pubDate>Thu, 25 May 2023 13:13:29 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;테이블 계산식에 대해 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;DAY-9-집합은-분석-앞으로-집합-과제&quot;&gt;&lt;a href=&quot;#DAY-9-집합은-분석-앞으로-집합-과제&quot; cla</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>테이블 계산식에 대해 배움</p></blockquote><h1 id="DAY-9-집합은-분석-앞으로-집합-과제"><a href="#DAY-9-집합은-분석-앞으로-집합-과제" class="headerlink" title="[DAY 9] 집합은 분석 앞으로 집합 - 과제"></a>[DAY 9] 집합은 분석 앞으로 집합 - 과제</h1><h2 id="1-전체-매출-순위-vs-특정-지역-매출-순위"><a href="#1-전체-매출-순위-vs-특정-지역-매출-순위" class="headerlink" title="[1] 전체 매출 순위 vs 특정 지역 매출 순위"></a>[1] 전체 매출 순위 vs 특정 지역 매출 순위</h2><img src="/2023/05/25/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day9/1.png" class=""><h2 id="2-장바구니-amp-교차판매-분석"><a href="#2-장바구니-amp-교차판매-분석" class="headerlink" title="[2] 장바구니 &amp; 교차판매 분석"></a>[2] 장바구니 &amp; 교차판매 분석</h2><img src="/2023/05/25/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day9/2.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/05/25/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day9/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로 UDT 4기 day8</title>
+      <link>https://dev-joy.github.io/2023/05/24/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day8/</link>
+      <guid>https://dev-joy.github.io/2023/05/24/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day8/</guid>
+      <pubDate>Wed, 24 May 2023 13:13:29 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;테이블 계산식에 대해 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;DAY-8-공간의-지배자-과제&quot;&gt;&lt;a href=&quot;#DAY-8-공간의-지배자-과제&quot; class=&quot;headerli</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>테이블 계산식에 대해 배움</p></blockquote><h1 id="DAY-8-공간의-지배자-과제"><a href="#DAY-8-공간의-지배자-과제" class="headerlink" title="[DAY 8] 공간의 지배자 - 과제"></a>[DAY 8] 공간의 지배자 - 과제</h1><h2 id="1-맵-이중축-맵-배경-커스텀-AREA-함수-실습"><a href="#1-맵-이중축-맵-배경-커스텀-AREA-함수-실습" class="headerlink" title="[1] 맵 이중축 + 맵 배경 커스텀 + AREA 함수 실습"></a>[1] 맵 이중축 + 맵 배경 커스텀 + AREA 함수 실습</h2><img src="/2023/05/24/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day8/1.png" class=""><h2 id="2-맵-다중-레이어-실습나열하기"><a href="#2-맵-다중-레이어-실습나열하기" class="headerlink" title="[2] 맵 다중 레이어 실습나열하기"></a>[2] 맵 다중 레이어 실습나열하기</h2><img src="/2023/05/24/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day8/2.png" class=""><img src="/2023/05/24/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day8/2-1.png" class=""><img src="/2023/05/24/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day8/3.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/05/24/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day8/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로 UDT 4기 day6~7</title>
+      <link>https://dev-joy.github.io/2023/05/23/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day6-7/</link>
+      <guid>https://dev-joy.github.io/2023/05/23/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day6-7/</guid>
+      <pubDate>Tue, 23 May 2023 13:13:29 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;테이블 계산식에 대해 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;DAY-6-7-테이블-계산식-과제&quot;&gt;&lt;a href=&quot;#DAY-6-7-테이블-계산식-과제&quot; class=&quot;head</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>테이블 계산식에 대해 배움</p></blockquote><h1 id="DAY-6-7-테이블-계산식-과제"><a href="#DAY-6-7-테이블-계산식-과제" class="headerlink" title="[DAY 6 - 7] 테이블 계산식 - 과제"></a>[DAY 6 - 7] 테이블 계산식 - 과제</h1><h2 id="1-테이블-계산식을-이용한-성장률-계산"><a href="#1-테이블-계산식을-이용한-성장률-계산" class="headerlink" title="[1] 테이블 계산식을 이용한 성장률 계산"></a>[1] 테이블 계산식을 이용한 성장률 계산</h2><img src="/2023/05/23/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day6-7/1.png" class=""><h2 id="2-제품-대분류별-매출-기준-상위-10개-제품-나열하기"><a href="#2-제품-대분류별-매출-기준-상위-10개-제품-나열하기" class="headerlink" title="[2] 제품 대분류별 매출 기준 상위 10개 제품 나열하기"></a>[2] 제품 대분류별 매출 기준 상위 10개 제품 나열하기</h2><img src="/2023/05/23/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day6-7/2.png" class=""><h2 id="3-파레토차트와-움직이는-참조선-그리기"><a href="#3-파레토차트와-움직이는-참조선-그리기" class="headerlink" title="[3] 파레토차트와 움직이는 참조선 그리기"></a>[3] 파레토차트와 움직이는 참조선 그리기</h2><img src="/2023/05/23/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day6-7/3.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/05/23/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day6-7/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로 UDT 4기 day3~5</title>
+      <link>https://dev-joy.github.io/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/</link>
+      <guid>https://dev-joy.github.io/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/</guid>
+      <pubDate>Thu, 18 May 2023 13:13:29 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;LoD에 대한 이해도가 높아짐&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;DAY-3-5-차원의-지배자1-LoD-과제&quot;&gt;&lt;a href=&quot;#DAY-3-5-차원의-지배자1-LoD-과제&quot;</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>LoD에 대한 이해도가 높아짐</p></blockquote><h1 id="DAY-3-5-차원의-지배자1-LoD-과제"><a href="#DAY-3-5-차원의-지배자1-LoD-과제" class="headerlink" title="[DAY 3 - 5] 차원의 지배자1 LoD - 과제"></a>[DAY 3 - 5] 차원의 지배자1 LoD - 과제</h1><h2 id="1-Fixed로-빈-행-채우기"><a href="#1-Fixed로-빈-행-채우기" class="headerlink" title="[1] Fixed로 빈 행 채우기"></a>[1] Fixed로 빈 행 채우기</h2><img src="/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/1.png" class=""><h2 id="2-시트-제목에-기간-명시하기"><a href="#2-시트-제목에-기간-명시하기" class="headerlink" title="[2] 시트 제목에 기간 명시하기"></a>[2] 시트 제목에 기간 명시하기</h2><img src="/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/2.png" class=""><h2 id="3-키워드-분석"><a href="#3-키워드-분석" class="headerlink" title="[3] 키워드 분석"></a>[3] 키워드 분석</h2><h3 id="3-1-상위-10개-키워드"><a href="#3-1-상위-10개-키워드" class="headerlink" title="3-1. 상위 10개 키워드"></a>3-1. 상위 10개 키워드</h3><img src="/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/3-1.png" class=""><h3 id="3-2-순위-급상승-키워드"><a href="#3-2-순위-급상승-키워드" class="headerlink" title="3-2. 순위 급상승 키워드"></a>3-2. 순위 급상승 키워드</h3><img src="/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/3-2.png" class=""><h2 id="4-올해-vs-작년-기준-고객별-평균주문단가-구해서-증감율-구하기"><a href="#4-올해-vs-작년-기준-고객별-평균주문단가-구해서-증감율-구하기" class="headerlink" title="[4] 올해 vs 작년 기준 고객별 평균주문단가 구해서 증감율 구하기"></a>[4] 올해 vs 작년 기준 고객별 평균주문단가 구해서 증감율 구하기</h2><img src="/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/4.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로 UDT 4기 day1~2</title>
+      <link>https://dev-joy.github.io/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/</link>
+      <guid>https://dev-joy.github.io/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/</guid>
+      <pubDate>Mon, 15 May 2023 13:13:29 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;날짜함수 사용법에 대해 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;DAY-1-2-시간의-지배자-과제&quot;&gt;&lt;a href=&quot;#DAY-1-2-시간의-지배자-과제&quot; class=&quot;hea</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>날짜함수 사용법에 대해 배움</p></blockquote><h1 id="DAY-1-2-시간의-지배자-과제"><a href="#DAY-1-2-시간의-지배자-과제" class="headerlink" title="[DAY 1 - 2] 시간의 지배자 - 과제"></a>[DAY 1 - 2] 시간의 지배자 - 과제</h1><h2 id="1-특정-날짜-기준으로-기준-월-vs-전-월-매출-비교"><a href="#1-특정-날짜-기준으로-기준-월-vs-전-월-매출-비교" class="headerlink" title="[1] 특정 날짜 기준으로 기준 월 vs 전 월 매출 비교"></a>[1] 특정 날짜 기준으로 기준 월 vs 전 월 매출 비교</h2><h3 id="1-1-DATEPART-함수-사용하기"><a href="#1-1-DATEPART-함수-사용하기" class="headerlink" title="1-1. DATEPART 함수 사용하기"></a>1-1. DATEPART 함수 사용하기</h3><img src="/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/1-1.png" class=""><h3 id="1-2-DATETRUNC-DATEADD-함수-사용하기"><a href="#1-2-DATETRUNC-DATEADD-함수-사용하기" class="headerlink" title="1-2. DATETRUNC, DATEADD 함수 사용하기"></a>1-2. DATETRUNC, DATEADD 함수 사용하기</h3><img src="/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/1-2.png" class=""><h3 id="1-3-DATEDIFF-사용하기"><a href="#1-3-DATEDIFF-사용하기" class="headerlink" title="1-3. DATEDIFF 사용하기"></a>1-3. DATEDIFF 사용하기</h3><img src="/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/2_line.png" class=""><h2 id="2-특정-날짜-기준-MTD-전년도-MTD"><a href="#2-특정-날짜-기준-MTD-전년도-MTD" class="headerlink" title="[2] 특정 날짜 기준 MTD, 전년도 MTD"></a>[2] 특정 날짜 기준 MTD, 전년도 MTD</h2><img src="/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/2_text.png" class=""><h2 id="3-특정-날짜-기준-YTD-전년도-YTD"><a href="#3-특정-날짜-기준-YTD-전년도-YTD" class="headerlink" title="[3] 특정 날짜 기준 YTD, 전년도 YTD"></a>[3] 특정 날짜 기준 YTD, 전년도 YTD</h2><img src="/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/3.png" class=""><h2 id="4-전년-동기-대비-증감율-YoY-구하기"><a href="#4-전년-동기-대비-증감율-YoY-구하기" class="headerlink" title="[4] 전년 동기 대비 증감율 (YoY) 구하기"></a>[4] 전년 동기 대비 증감율 (YoY) 구하기</h2><img src="/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/4.png" class=""><h2 id="번외-달력에-수익률-표현하기"><a href="#번외-달력에-수익률-표현하기" class="headerlink" title="[번외] 달력에 수익률 표현하기"></a>[번외] 달력에 수익률 표현하기</h2><img src="/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/etc.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Tableau Embedding</title>
+      <link>https://dev-joy.github.io/2023/03/01/Tableau-Embedding/</link>
+      <guid>https://dev-joy.github.io/2023/03/01/Tableau-Embedding/</guid>
+      <pubDate>Tue, 28 Feb 2023 15:20:40 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;Tableau-Server에서-설정&quot;&gt;&lt;a href=&quot;#Tableau-Server에서-설정&quot; class=&quot;headerlink&quot; title=&quot;Tableau Server에서 설정&quot;&gt;&lt;/a&gt;Tableau Server에서 설정&lt;/h1&gt;&lt;ul&gt;
+</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="Tableau-Server에서-설정"><a href="#Tableau-Server에서-설정" class="headerlink" title="Tableau Server에서 설정"></a>Tableau Server에서 설정</h1><ul><li><a href="https://help.tableau.com/current/server/ko-kr/trusted_auth_trustIP.htm">Tableau Server에 신뢰할 수 있는 IP 주소 또는 호스트 이름 추가</a></li></ul><h1 id="Tableau-Embedding-API-Version-2"><a href="#Tableau-Embedding-API-Version-2" class="headerlink" title="Tableau Embedding API Version 2"></a><a href="https://help.tableau.com/current/api/js_api/en-us/JavaScriptAPI/js_api_whats_new.htm">Tableau Embedding API Version 2</a></h1><ul><li><a href="https://github.com/datapainters/tableau-rest-java-library/blob/master/src/tabRest/tabRest.java">Tableau Rest API Java Github</a></li></ul><h1 id="Tableau-Embedding-API-Version-3"><a href="#Tableau-Embedding-API-Version-3" class="headerlink" title="Tableau Embedding API Version 3"></a><a href="https://help.tableau.com/current/api/embedding_api/en-us/index.html">Tableau Embedding API Version 3</a></h1><ul><li><a href="https://help.tableau.com/current/server/ko-kr/connected_apps.htm">Tableau의 연결된 앱을 구성하여 내장된 콘텐츠에 대한 SSO 지원</a></li></ul><figure class="highlight python"><figcaption><span>JSONWebToken.py</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> jwt</span><br><span class="line">token = jwt.encode(</span><br><span class="line">&#123;</span><br><span class="line"><span class="string">&quot;iss&quot;</span>: connectedAppClientId,</span><br><span class="line"><span class="string">&quot;exp&quot;</span>: datetime.datetime.utcnow() + datetime.timedelta(minutes=<span class="number">5</span>),</span><br><span class="line"><span class="string">&quot;jti&quot;</span>: <span class="built_in">str</span>(uuid.uuid4()),</span><br><span class="line"><span class="string">&quot;aud&quot;</span>: <span class="string">&quot;tableau&quot;</span>,</span><br><span class="line"><span class="string">&quot;sub&quot;</span>: user,</span><br><span class="line"><span class="string">&quot;scp&quot;</span>: [<span class="string">&quot;tableau:views:embed&quot;</span>, <span class="string">&quot;tableau:metrics:embed&quot;</span>]</span><br><span class="line">&#125;,</span><br><span class="line">connectedAppSecretKey,</span><br><span class="line">algorithm = <span class="string">&quot;HS256&quot;</span>,</span><br><span class="line">headers = &#123;</span><br><span class="line"><span class="string">&#x27;kid&#x27;</span>: connectedAppSecretId,</span><br><span class="line"><span class="string">&#x27;iss&#x27;</span>: connectedAppClientId</span><br><span class="line">        &#125;</span><br><span class="line">  )</span><br></pre></td></tr></table></figure><figure class="highlight java"><figcaption><span>JSONWebToken.java</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> com.nimbusds.jose.*;</span><br><span class="line"><span class="keyword">import</span> com.nimbusds.jose.crypto.*;</span><br><span class="line"><span class="keyword">import</span> com.nimbusds.jwt.*;</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> java.util.*;</span><br><span class="line"></span><br><span class="line">...</span><br><span class="line"></span><br><span class="line"><span class="type">String</span> <span class="variable">secret</span> <span class="operator">=</span> <span class="string">&quot;secretvalue&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">kid</span> <span class="operator">=</span> <span class="string">&quot;connectedAppSecretId&quot;</span>;</span><br><span class="line"><span class="type">String</span> <span class="variable">clientId</span> <span class="operator">=</span> <span class="string">&quot;connectedAppClientId&quot;</span>;</span><br><span class="line">List&lt;String&gt; scopes = <span class="keyword">new</span></span><br><span class="line"><span class="title class_">ArrayList</span>&lt;&gt;(Arrays.asList(<span class="string">&quot;tableau:views:embed&quot;</span>));</span><br><span class="line"><span class="type">String</span> <span class="variable">username</span> <span class="operator">=</span> <span class="string">&quot;username&quot;</span>;</span><br><span class="line"><span class="type">JWSSigner</span> <span class="variable">signer</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">MACSigner</span>(secret);</span><br><span class="line"><span class="type">JWSHeader</span> <span class="variable">header</span> <span class="operator">=</span> <span class="keyword">new</span></span><br><span class="line"><span class="title class_">JWSHeader</span>.Builder(JWSAlgorithm.HS256).keyID(kid).customParam(<span class="string">&quot;iss&quot;</span>, clientId).build();</span><br><span class="line"><span class="type">JWTClaimsSet</span> <span class="variable">claimsSet</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">JWTClaimsSet</span>.Builder()</span><br><span class="line">.issuer(clientId)</span><br><span class="line">.expirationTime(<span class="keyword">new</span> <span class="title class_">Date</span>(<span class="keyword">new</span> <span class="title class_">Date</span>().getTime() + <span class="number">60</span> * <span class="number">1000</span>)) <span class="comment">//expires in 1 minute</span></span><br><span class="line">.jwtID(UUID.randomUUID().toString())</span><br><span class="line">.audience(<span class="string">&quot;tableau&quot;</span>)</span><br><span class="line">.subject(username)</span><br><span class="line">.claim(<span class="string">&quot;scp&quot;</span>, scopes)</span><br><span class="line">.build();</span><br><span class="line"><span class="type">SignedJWT</span> <span class="variable">signedJWT</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">SignedJWT</span>(header, claimsSet);</span><br><span class="line">signedJWT.sign(signer);</span><br><span class="line">model.addAttribute(<span class="string">&quot;token&quot;</span>, signedJWT.serialize());</span><br></pre></td></tr></table></figure><ol><li>hosts 파일 우클릭 &gt; Code(으)로 열기 &gt; 수정 &gt; 저장 &gt; “Failed to save ‘hosts’: Insufficient permissions.</li><li>Select ‘Retry as Admin’ to retry as administrator.”라는 알림창이 뜨면 [Retry as Admin…] 클릭 &gt; Windows 명령 처리기 [예] 클릭</li></ol><figure class="highlight bash"><figcaption><span>C:\Windows\System32\drivers\etc\hosts</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">127.0.0.1 dev-joy.github.io</span><br><span class="line">127.0.0.2 dev-zoy.github.io</span><br></pre></td></tr></table></figure><blockquote><p>*.github.io로 Domain 맞춰서 SameSite Error 해결</p></blockquote>]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau-Embedding/">Tableau Embedding</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau-Embedding/">Tableau Embedding</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/03/01/Tableau-Embedding/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로-신병훈련소-17기-day10</title>
+      <link>https://dev-joy.github.io/2023/02/17/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day10/</link>
+      <guid>https://dev-joy.github.io/2023/02/17/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day10/</guid>
+      <pubDate>Fri, 17 Feb 2023 10:00:53 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;Tableau Prep 맛보기&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;Prep으로-Data-합치기&quot;&gt;&lt;a href=&quot;#Prep으로-Data-합치기&quot; class=&quot;headerli</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>Tableau Prep 맛보기</p></blockquote><h1 id="Prep으로-Data-합치기"><a href="#Prep으로-Data-합치기" class="headerlink" title="Prep으로 Data 합치기"></a>Prep으로 Data 합치기</h1><img src="/2023/02/17/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day10/assignment1.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/17/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day10/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로-신병훈련소-17기-day9</title>
+      <link>https://dev-joy.github.io/2023/02/16/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day9/</link>
+      <guid>https://dev-joy.github.io/2023/02/16/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day9/</guid>
+      <pubDate>Thu, 16 Feb 2023 10:00:47 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;Best Practice를 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;corona-dashboard&quot;&gt;&lt;a href=&quot;#corona-dashboard&quot; class=&quot;heade</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>Best Practice를 배움</p></blockquote><h1 id="corona-dashboard"><a href="#corona-dashboard" class="headerlink" title="corona dashboard"></a>corona dashboard</h1><img src="/2023/02/16/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day9/assignment1.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/16/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day9/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로-신병훈련소-17기-day8</title>
+      <link>https://dev-joy.github.io/2023/02/15/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day8/</link>
+      <guid>https://dev-joy.github.io/2023/02/15/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day8/</guid>
+      <pubDate>Wed, 15 Feb 2023 10:00:17 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;집합을 만들 수 있음, 워크시트 또는 대시보드에서 동작을 만들 수 있음&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;set-Action&quot;&gt;&lt;a href=&quot;#set-Action&quot; cl</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>집합을 만들 수 있음, 워크시트 또는 대시보드에서 동작을 만들 수 있음</p></blockquote><h1 id="set-Action"><a href="#set-Action" class="headerlink" title="set Action"></a>set Action</h1><img src="/2023/02/15/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day8/assignment1.png" class=""><h1 id="매개변수를-이용한-드릴-다운"><a href="#매개변수를-이용한-드릴-다운" class="headerlink" title="매개변수를 이용한 드릴 다운"></a>매개변수를 이용한 드릴 다운</h1><img src="/2023/02/15/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day8/assignment2.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/15/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day8/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로-신병훈련소-17기-day7</title>
+      <link>https://dev-joy.github.io/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/</link>
+      <guid>https://dev-joy.github.io/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/</guid>
+      <pubDate>Tue, 14 Feb 2023 10:00:23 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;축 대칭, 대화형 필터에 대해서 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;도넛-차트&quot;&gt;&lt;a href=&quot;#도넛-차트&quot; class=&quot;headerlink&quot; title=&quot;도넛 차트</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>축 대칭, 대화형 필터에 대해서 배움</p></blockquote><h1 id="도넛-차트"><a href="#도넛-차트" class="headerlink" title="도넛 차트"></a>도넛 차트</h1><img src="/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/assignment1.png" class=""><h1 id="워터폴-차트"><a href="#워터폴-차트" class="headerlink" title="워터폴 차트"></a>워터폴 차트</h1><img src="/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/assignment2.png" class=""><h1 id="범프-차트"><a href="#범프-차트" class="headerlink" title="범프 차트"></a>범프 차트</h1><img src="/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/assignment3.png" class=""><h1 id="퍼널-차트"><a href="#퍼널-차트" class="headerlink" title="퍼널 차트"></a>퍼널 차트</h1><img src="/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/assignment4.png" class=""><h1 id="간트-차트"><a href="#간트-차트" class="headerlink" title="간트 차트"></a>간트 차트</h1><img src="/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/assignment5.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로 신병훈련소 17기 day6</title>
+      <link>https://dev-joy.github.io/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/</link>
+      <guid>https://dev-joy.github.io/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/</guid>
+      <pubDate>Mon, 13 Feb 2023 10:00:59 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;LOD,Layer of Detail에 대해 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;테이블-계산식-차이&quot;&gt;&lt;a href=&quot;#테이블-계산식-차이&quot; class=&quot;headerli</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>LOD,Layer of Detail에 대해 배움</p></blockquote><h1 id="테이블-계산식-차이"><a href="#테이블-계산식-차이" class="headerlink" title="테이블 계산식 - 차이"></a>테이블 계산식 - 차이</h1><img src="/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/assignment1.png" class=""><h1 id="테이블-계산식-구성비율"><a href="#테이블-계산식-구성비율" class="headerlink" title="테이블 계산식 - 구성비율"></a>테이블 계산식 - 구성비율</h1><img src="/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/assignment2.png" class=""><h1 id="세부수준-계산식-LOD-전국-기준-매출-구성비율-구하기"><a href="#세부수준-계산식-LOD-전국-기준-매출-구성비율-구하기" class="headerlink" title="세부수준 계산식(LOD) : 전국 기준 매출 구성비율 구하기"></a>세부수준 계산식(LOD) : 전국 기준 매출 구성비율 구하기</h1><img src="/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/assignment3.png" class=""><h1 id="세부-수준-계산식-과거-고객-매출-기여도-및-신규-유입-고객-현황-분석"><a href="#세부-수준-계산식-과거-고객-매출-기여도-및-신규-유입-고객-현황-분석" class="headerlink" title="세부 수준 계산식 : 과거 고객 매출 기여도 및 신규 유입 고객 현황 분석"></a>세부 수준 계산식 : 과거 고객 매출 기여도 및 신규 유입 고객 현황 분석</h1><img src="/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/assignment4.png" class=""><h1 id="코호트-분석"><a href="#코호트-분석" class="headerlink" title="코호트 분석"></a>코호트 분석</h1><img src="/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/challenge1.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로-신병훈련소-17기-day5</title>
+      <link>https://dev-joy.github.io/2023/02/09/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day5/</link>
+      <guid>https://dev-joy.github.io/2023/02/09/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day5/</guid>
+      <pubDate>Thu, 09 Feb 2023 10:00:27 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;MAKEPOINT 함수로 계산식 만들어서 MAP 표현&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;배경-이미지를-이용한-Custom-Map-사용하기&quot;&gt;&lt;a href=&quot;#배경-이미지를</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>MAKEPOINT 함수로 계산식 만들어서 MAP 표현</p></blockquote><h1 id="배경-이미지를-이용한-Custom-Map-사용하기"><a href="#배경-이미지를-이용한-Custom-Map-사용하기" class="headerlink" title="배경 이미지를 이용한 Custom Map 사용하기"></a>배경 이미지를 이용한 Custom Map 사용하기</h1><img src="/2023/02/09/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day5/assignment1.png" class=""><h1 id="공간-테이블-계산을-이용한-맵-활용"><a href="#공간-테이블-계산을-이용한-맵-활용" class="headerlink" title="공간 테이블 계산을 이용한 맵 활용"></a>공간 테이블 계산을 이용한 맵 활용</h1><img src="/2023/02/09/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day5/assignment2.png" class=""><h1 id="Buffer-함수를-이용한-맵-활용"><a href="#Buffer-함수를-이용한-맵-활용" class="headerlink" title="Buffer 함수를 이용한 맵 활용"></a>Buffer 함수를 이용한 맵 활용</h1><img src="/2023/02/09/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day5/assignment3.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/09/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day5/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로-신병훈련소-17기-day4</title>
+      <link>https://dev-joy.github.io/2023/02/08/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day4/</link>
+      <guid>https://dev-joy.github.io/2023/02/08/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day4/</guid>
+      <pubDate>Wed, 08 Feb 2023 10:00:24 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;이중축 차트를 구현&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;라인차트&quot;&gt;&lt;a href=&quot;#라인차트&quot; class=&quot;headerlink&quot; title=&quot;라인차트&quot;&gt;&lt;/a&gt;라인차트&lt;/h</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>이중축 차트를 구현</p></blockquote><h1 id="라인차트"><a href="#라인차트" class="headerlink" title="라인차트"></a>라인차트</h1><img src="/2023/02/08/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day4/assignment1.png" class=""><h1 id="하이라이트-테이블"><a href="#하이라이트-테이블" class="headerlink" title="하이라이트 테이블"></a>하이라이트 테이블</h1><img src="/2023/02/08/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day4/assignment2.png" class=""><h1 id="테이블-계산식을-이용한-시간-분석"><a href="#테이블-계산식을-이용한-시간-분석" class="headerlink" title="테이블 계산식을 이용한 시간 분석"></a>테이블 계산식을 이용한 시간 분석</h1><img src="/2023/02/08/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day4/assignment3.png" class=""><h1 id="덤벨차트"><a href="#덤벨차트" class="headerlink" title="덤벨차트"></a>덤벨차트</h1><img src="/2023/02/08/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day4/assignment4.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/08/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day4/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Tools 소개</title>
+      <link>https://dev-joy.github.io/2023/02/08/Tools-%EC%86%8C%EA%B0%9C/</link>
+      <guid>https://dev-joy.github.io/2023/02/08/Tools-%EC%86%8C%EA%B0%9C/</guid>
+      <pubDate>Tue, 07 Feb 2023 16:05:06 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;계속 업데이트 됩니다!&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;MobaXterm&quot;&gt;&lt;a href=&quot;#MobaXterm&quot; class=&quot;headerlink&quot; title=&quot;MobaXterm&quot;&gt;&lt;/a&gt;&lt;a href=&quot;htt</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>계속 업데이트 됩니다!</p></blockquote><h1 id="MobaXterm"><a href="#MobaXterm" class="headerlink" title="MobaXterm"></a><a href="https://mobaxterm.mobatek.net/">MobaXterm</a></h1><blockquote><p>Putty + FTP</p></blockquote><h1 id="DBeaver"><a href="#DBeaver" class="headerlink" title="DBeaver"></a><a href="https://dbeaver.io/">DBeaver</a></h1><blockquote><p>DB 관리툴</p></blockquote><h1 id="cmder"><a href="#cmder" class="headerlink" title="cmder"></a><a href="https://cmder.app/">cmder</a></h1><blockquote><p>Window에서 Linux 명령어 사용가능</p></blockquote><h1 id="obsidian"><a href="#obsidian" class="headerlink" title="obsidian"></a><a href="https://obsidian.md/">obsidian</a></h1><blockquote><p>markdown 노트</p></blockquote><h1 id="Marp"><a href="#Marp" class="headerlink" title="Marp"></a><a href="https://marp.app/">Marp</a></h1><blockquote><p>Markdown Presentation Ecosystem</p></blockquote>]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tools/">Tools</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/tools/">tools</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/08/Tools-%EC%86%8C%EA%B0%9C/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로-신병훈련소-17기 day3</title>
+      <link>https://dev-joy.github.io/2023/02/07/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day3/</link>
+      <guid>https://dev-joy.github.io/2023/02/07/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day3/</guid>
+      <pubDate>Tue, 07 Feb 2023 10:00:50 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;매개 변수 만든 후 계산된 필드 만들기(동적변수 생성), 대시보드 작업(동작)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;매개-변수를-사용하여-측정값-변경하기1-amp-마크-색상-</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>매개 변수 만든 후 계산된 필드 만들기(동적변수 생성), 대시보드 작업(동작)</p></blockquote><h1 id="매개-변수를-사용하여-측정값-변경하기1-amp-마크-색상-표현하기"><a href="#매개-변수를-사용하여-측정값-변경하기1-amp-마크-색상-표현하기" class="headerlink" title="매개 변수를 사용하여 측정값 변경하기1 &amp; 마크 색상 표현하기"></a>매개 변수를 사용하여 측정값 변경하기1 &amp; 마크 색상 표현하기</h1><img src="/2023/02/07/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day3/assignment1.png" class=""><h1 id="매개-변수를-사용하여-측정값-변경하기2"><a href="#매개-변수를-사용하여-측정값-변경하기2" class="headerlink" title="매개 변수를 사용하여 측정값 변경하기2"></a>매개 변수를 사용하여 측정값 변경하기2</h1><img src="/2023/02/07/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day3/assignment2.png" class=""><h1 id="대시보드-작업-동작-적용하기"><a href="#대시보드-작업-동작-적용하기" class="headerlink" title="대시보드 작업(동작) 적용하기"></a>대시보드 작업(동작) 적용하기</h1><img src="/2023/02/07/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day3/assignment3.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/07/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day3/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로-신병훈련소-17기-day2</title>
+      <link>https://dev-joy.github.io/2023/02/06/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day2/</link>
+      <guid>https://dev-joy.github.io/2023/02/06/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day2/</guid>
+      <pubDate>Mon, 06 Feb 2023 10:00:36 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;분석 탭에서 박스플롯, 계산된 필드 만들기를 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;워드클라우드-칼로리&quot;&gt;&lt;a href=&quot;#워드클라우드-칼로리&quot; class=&quot;headerl</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>분석 탭에서 박스플롯, 계산된 필드 만들기를 배움</p></blockquote><h1 id="워드클라우드-칼로리"><a href="#워드클라우드-칼로리" class="headerlink" title="워드클라우드(칼로리)"></a>워드클라우드(칼로리)</h1><img src="/2023/02/06/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day2/assignment1.png" class=""><h1 id="칼로리-박스-플롯"><a href="#칼로리-박스-플롯" class="headerlink" title="칼로리 박스 플롯"></a>칼로리 박스 플롯</h1><img src="/2023/02/06/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day2/assignment2.png" class=""><h1 id="계산된-필드-만들기"><a href="#계산된-필드-만들기" class="headerlink" title="계산된 필드 만들기"></a>계산된 필드 만들기</h1><img src="/2023/02/06/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day2/assignment3.png" class=""><h1 id="매장별-매장운영시간"><a href="#매장별-매장운영시간" class="headerlink" title="매장별 매장운영시간"></a>매장별 매장운영시간</h1><img src="/2023/02/06/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day2/challenge1.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/06/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day2/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>태블로 신병훈련소 17기 day1</title>
+      <link>https://dev-joy.github.io/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/</link>
+      <guid>https://dev-joy.github.io/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/</guid>
+      <pubDate>Fri, 03 Feb 2023 10:23:45 GMT</pubDate>
+      
+        
+        
+      <description>&lt;blockquote&gt;
+&lt;p&gt;TIL, Today I Learn&lt;br&gt;마크, 표현방식에 대해 배움&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;카테고리-별-평균-칼로리-amp-카페인&quot;&gt;&lt;a href=&quot;#카테고리-별-평균-칼로리-amp-카페인&quot; clas</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<blockquote><p>TIL, Today I Learn<br>마크, 표현방식에 대해 배움</p></blockquote><h1 id="카테고리-별-평균-칼로리-amp-카페인"><a href="#카테고리-별-평균-칼로리-amp-카페인" class="headerlink" title="카테고리 별 평균 칼로리&amp;카페인"></a>카테고리 별 평균 칼로리&amp;카페인</h1><img src="/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/assignment1.png" class=""><h1 id="메뉴명-별-칼로리-amp-카페인"><a href="#메뉴명-별-칼로리-amp-카페인" class="headerlink" title="메뉴명 별 칼로리&amp;카페인"></a>메뉴명 별 칼로리&amp;카페인</h1><img src="/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/assignment2.png" class=""><h1 id="당분-함유량과-칼로리의-상관관계"><a href="#당분-함유량과-칼로리의-상관관계" class="headerlink" title="당분 함유량과 칼로리의 상관관계"></a>당분 함유량과 칼로리의 상관관계</h1><img src="/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/assignment3.png" class=""><h1 id="시군구-별-스타벅스-매장-수"><a href="#시군구-별-스타벅스-매장-수" class="headerlink" title="시군구 별 스타벅스 매장 수"></a>시군구 별 스타벅스 매장 수</h1><img src="/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/assignment4.png" class=""><h1 id="대시보드-만들기"><a href="#대시보드-만들기" class="headerlink" title="대시보드 만들기"></a>대시보드 만들기</h1><img src="/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/assignment5.png" class=""><h1 id="추가-도전-과제-1-칼로리가-낮으면서-카페인이-높지-않은-메뉴"><a href="#추가-도전-과제-1-칼로리가-낮으면서-카페인이-높지-않은-메뉴" class="headerlink" title="추가 도전 과제 1 칼로리가 낮으면서 카페인이 높지 않은 메뉴"></a>추가 도전 과제 1 칼로리가 낮으면서 카페인이 높지 않은 메뉴</h1><img src="/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/challenge1.png" class=""><h1 id="추가-도전과제-2-스타벅스-매장-정보"><a href="#추가-도전과제-2-스타벅스-매장-정보" class="headerlink" title="추가 도전과제 2 스타벅스 매장 정보"></a>추가 도전과제 2 스타벅스 매장 정보</h1><img src="/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/challenge2.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Tableau/">Tableau</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Tableau/">Tableau</category>
+      
+      
+      <comments>https://dev-joy.github.io/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>신찬수-자료구조와알고리즘</title>
+      <link>https://dev-joy.github.io/2022/11/20/%EC%8B%A0%EC%B0%AC%EC%88%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</link>
+      <guid>https://dev-joy.github.io/2022/11/20/%EC%8B%A0%EC%B0%AC%EC%88%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</guid>
+      <pubDate>Sun, 20 Nov 2022 14:20:48 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=M2mcJvmYpWY&amp;list=PLsMufJgu5933ZkBCHS7bQTx0bncjwi4PK&amp;index=2&quot;&gt;한국외대 신찬수 교수님 자료구조와알고리즘&lt;/a&gt;&lt;/p&gt;
+&lt;h1 </description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p><a href="https://www.youtube.com/watch?v=M2mcJvmYpWY&list=PLsMufJgu5933ZkBCHS7bQTx0bncjwi4PK&index=2">한국외대 신찬수 교수님 자료구조와알고리즘</a></p><h1 id="자료구조-Data-Structure-알고리즘-Algoritm"><a href="#자료구조-Data-Structure-알고리즘-Algoritm" class="headerlink" title="자료구조(Data Structure), 알고리즘(Algoritm)"></a>자료구조(Data Structure), 알고리즘(Algoritm)</h1><p>자료: data -&gt; [저장공간(memory) + 읽기,쓰기,삽입,삭제,탐색(연산)] &#x3D;&gt; 구조<br>알고리즘: data (유한한 횟수의 연산들) 입력-&gt; 정답 출력</p><p>자료구조 (예:) 1. 변수(variable) 2.배열(array), 리스트(list)<br>알고리즘 (예:) 100개의 정수: 리스트 A:입력 -&gt; 오름차순 정렬:출력</p><figure class="highlight python"><figcaption><span>explnation.py</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">a = <span class="number">5</span> <span class="comment"># 쓰기 연산</span></span><br><span class="line"><span class="built_in">print</span>(a) <span class="comment"># 읽기 연산</span></span><br><span class="line"></span><br><span class="line">A = [<span class="number">3</span>, -<span class="number">1</span>, <span class="number">5</span>, <span class="number">7</span>]</span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br><span class="line"><span class="string">접근: 원소의 index</span></span><br><span class="line"><span class="string">읽기, 쓰기: A[3]</span></span><br><span class="line"><span class="string">삽입: A.append(9) # 맨 끝에 추가,</span></span><br><span class="line"><span class="string">      A.insert(0, 100) # 0번째 idx에 100 값 추가</span></span><br><span class="line"><span class="string">삭제: A.pop() # 가장 마지막 제거,</span></span><br><span class="line"><span class="string">      A.pop(2) # 2번쨰 idx 값 제거</span></span><br><span class="line"><span class="string">&#x27;&#x27;&#x27;</span></span><br></pre></td></tr></table></figure><h2 id="인류-최초의-알고리즘"><a href="#인류-최초의-알고리즘" class="headerlink" title="인류 최초의 알고리즘"></a>인류 최초의 알고리즘</h2><blockquote><p>ac, 페르시아, Algebra 수학자 Al-khwarizmi<br>-&gt; <strong>Alg</strong>orismus + A<strong>rithm</strong>os &#x3D;&gt; [Algorithm]</p></blockquote><h1 id="최대공약수-GCD-계산-알고리즘-by-Euclid"><a href="#최대공약수-GCD-계산-알고리즘-by-Euclid" class="headerlink" title="최대공약수(GCD)계산 알고리즘 by Euclid"></a>최대공약수(GCD)계산 알고리즘 by Euclid</h1><figure class="highlight python"><figcaption><span>greatest_common_divisor.py</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">gcd</span>(<span class="params">a, b</span>):</span><br><span class="line">    <span class="keyword">while</span> a!=<span class="number">0</span> <span class="keyword">and</span> b!=<span class="number">0</span>:</span><br><span class="line">        <span class="keyword">if</span> a&gt;b: a = a-b</span><br><span class="line">        <span class="keyword">else</span>: b = b-a</span><br><span class="line">    <span class="keyword">return</span> a+b</span><br></pre></td></tr></table></figure>]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/data-structures/">data structures</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/algorithms/">algorithms</category>
+      
+      <category domain="https://dev-joy.github.io/tags/data-structures/">data structures</category>
+      
+      
+      <comments>https://dev-joy.github.io/2022/11/20/%EC%8B%A0%EC%B0%AC%EC%88%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Apache Spark 설치</title>
+      <link>https://dev-joy.github.io/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/</link>
+      <guid>https://dev-joy.github.io/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/</guid>
+      <pubDate>Thu, 03 Nov 2022 11:56:27 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;Window-운영체제&quot;&gt;&lt;a href=&quot;#Window-운영체제&quot; class=&quot;headerlink&quot; title=&quot;Window 운영체제&quot;&gt;&lt;/a&gt;Window 운영체제&lt;/h1&gt;&lt;h2 id=&quot;1-Anaconda-설치하기&quot;&gt;&lt;a href=&quot;#1-</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="Window-운영체제"><a href="#Window-운영체제" class="headerlink" title="Window 운영체제"></a>Window 운영체제</h1><h2 id="1-Anaconda-설치하기"><a href="#1-Anaconda-설치하기" class="headerlink" title="1. Anaconda 설치하기"></a>1. <a href="https://www.anaconda.com/products/distribution">Anaconda</a> 설치하기</h2><p>Anaconda Prompt에서 python 3.8 이상인지 확인</p><p><code>where python</code> 으로 Python이 어디에 설치되어 있는지 확인</p><p>pip : python package installer<br><code>where pip</code>으로 pip이 어디에 있는지 확인</p><p><code>pip --version</code>으로 pip 버전 확인</p><h2 id="2-JAVA"><a href="#2-JAVA" class="headerlink" title="2. JAVA"></a>2. <a href="https://www.oracle.com/kr/java/technologies/downloads/">JAVA</a></h2><p><code>java --version</code>으로 버전 확인<br>Extended Support Until이 긴 JAVA 8(LTS)을 다운받는다</p><h2 id="3-Spark"><a href="#3-Spark" class="headerlink" title="3. Spark"></a>3. <a href="https://spark.apache.org/downloads.html">Spark</a></h2><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/spark.png" class=""><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/spark_download.png" class=""><p>다운받은 파일을 원하는 위치에 이동한다.</p><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/spark_directory.png" class=""><h2 id="4-Hadoop"><a href="#4-Hadoop" class="headerlink" title="4. Hadoop"></a>4. <a href="https://github.com/cdarlint/winutils">Hadoop</a></h2><p>hadoop-2.7.7을 사용<br>다운받은 파일을 원하는 위치에 이동한다.</p><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/hadoop_directory.png" class=""><h2 id="5-Pyspark"><a href="#5-Pyspark" class="headerlink" title="5. Pyspark"></a>5. Pyspark</h2><p>Anaconda Prompt에서 <code>pip install pyspark</code></p><h2 id="환경변수-설정"><a href="#환경변수-설정" class="headerlink" title="환경변수 설정"></a>환경변수 설정</h2><p><strong style="color:red">주의사항: 파일경로에 빈칸이 존재하면 Error가 발생</strong></p><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/system_enviroment.png" class=""><p>JAVA_HOME<br>D:\ProgramFiles\Java\java-14-openjdk-14.0.2.12\bin</p><p>HADOOP_HOME<br>D:\ProgramFiles\Hadoop</p><p>SPARK_HOME<br>D:\ProgramFiles\Spark\spark-3.2.0-bin-hadoop2.7</p><p>PYSPARK_PYTHON<br><code>where python</code>을 해서 D:\ProgramFiles\Anaconda3\python.exe</p><p><strong>환경변수 &gt; 변수: Path를 선택하여 [편집]버튼을 누르고 아래와 같이 추가</strong></p><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/path.png" class=""><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/path_add.png" class=""><h1 id="Mac-운영체제"><a href="#Mac-운영체제" class="headerlink" title="Mac 운영체제"></a>Mac 운영체제</h1><h2 id="1-Anaconda-설치하기-1"><a href="#1-Anaconda-설치하기-1" class="headerlink" title="1. Anaconda 설치하기"></a>1. <a href="https://www.anaconda.com/products/distribution">Anaconda</a> 설치하기</h2><h2 id="2-which-python-으로-경로-찾기"><a href="#2-which-python-으로-경로-찾기" class="headerlink" title="2. which python 으로 경로 찾기"></a>2. <code>which python</code> 으로 경로 찾기</h2><h2 id="3-Homebrew-설치"><a href="#3-Homebrew-설치" class="headerlink" title="3. Homebrew 설치"></a>3. <a href="https://brew.sh/">Homebrew</a> 설치</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash">JAVA 버전확인</span></span><br><span class="line">java -version</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">JAVA8 설치</span></span><br><span class="line">brew install --cask adoptopenjdk8</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">SCALA 설치</span></span><br><span class="line">brew install scala</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Apache Spark 설치</span></span><br><span class="line">brew install apache-spark</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">pip 버전확인</span></span><br><span class="line">pip --version</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">pyspark 설치</span></span><br><span class="line">pip install pyspark</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">pyspark 터미널 뜨는지 확인</span></span><br><span class="line">pyspark</span><br></pre></td></tr></table></figure><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/pyspark.png" class="">]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Data-Engineering/">Data Engineering</category>
+      
+      <category domain="https://dev-joy.github.io/categories/Data-Engineering/Apache-Spark/">Apache Spark</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Data-Engineering/">Data Engineering</category>
+      
+      <category domain="https://dev-joy.github.io/tags/Apache-Spark/">Apache Spark</category>
+      
+      
+      <comments>https://dev-joy.github.io/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
