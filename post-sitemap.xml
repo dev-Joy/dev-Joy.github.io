@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://dev-joy.github.io/2023/03/01/Tableau-Embedding/</loc>
+        <lastmod>2023-07-18T13:04:50.514Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://dev-joy.github.io/2023/05/26/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day10/</loc>
         <lastmod>2023-06-01T14:05:33.617Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -51,14 +59,6 @@
     <url>
         <loc>https://dev-joy.github.io/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/</loc>
         <lastmod>2023-05-15T13:43:33.572Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/03/01/Tableau-Embedding/</loc>
-        <lastmod>2023-03-13T14:18:45.655Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
