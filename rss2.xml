@@ -9,8 +9,36 @@
     <atom:link href="https://dev-joy.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 01 Jun 2023 14:05:33 GMT</pubDate>
+    <pubDate>Mon, 04 Mar 2024 13:54:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>CSV 파일 다루기</title>
+      <link>https://dev-joy.github.io/2024/01/05/CSV-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0/</link>
+      <guid>https://dev-joy.github.io/2024/01/05/CSV-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0/</guid>
+      <pubDate>Fri, 05 Jan 2024 13:45:58 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;Header-즉-첫번째-줄-linux에서-삭제하기&quot;&gt;&lt;a href=&quot;#Header-즉-첫번째-줄-linux에서-삭제하기&quot; class=&quot;headerlink&quot; title=&quot;Header 즉 첫번째 줄 linux에서 삭제하기&quot;&gt;&lt;/a&gt;Heade</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="Header-즉-첫번째-줄-linux에서-삭제하기"><a href="#Header-즉-첫번째-줄-linux에서-삭제하기" class="headerlink" title="Header 즉 첫번째 줄 linux에서 삭제하기"></a>Header 즉 첫번째 줄 linux에서 삭제하기</h1><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">덮어쓰기 전의 파일을 확장자.bak를 붙여서 보관하는 것이 가능하다</span></span><br><span class="line">sed -i.bak -e &#x27;/^#/d&#x27; config.txt</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">DATA.csv에서 첫번째 줄 제거하여 DATA_NO_HEADER.csv 생성</span></span><br><span class="line">sed &#x27;1d&#x27; DATA.csv &gt; DATA_NO_HEADER.csv</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">동일한 이름으로 첫번째 줄 제거</span></span><br><span class="line">sed -i &#x27;1d&#x27; DATA.csv</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">패턴을 포함하는 선을 삭제</span></span><br><span class="line">vi DATA.csv</span><br><span class="line">:g/&lt;pattern&gt;/d</span><br><span class="line">:wq</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash"><span class="string">&#x27;#&#x27;</span>문자가 포함된 라인 삭제하면서 공백 제거된 내용만 출력</span></span><br><span class="line">sed &#x27;/#/d&#x27; jupyterhub_config.py | sed &#x27;/^$/d&#x27;</span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_"></span></span><br><span class="line"><span class="meta prompt_">#</span><span class="language-bash">덮어쓰기</span></span><br><span class="line">cat &gt; 명령어는 덮어쓰기 명령어이다.</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">이어쓰기</span></span><br><span class="line">. cat &gt;&gt; [파일 경로 / 이름]</span><br><span class="line"></span><br></pre></td></tr></table></figure><ol><li><p>cat [ 파일 경로 &#x2F; 이름 ]</p><ul><li>파일을 열어 내용을 출력</li></ul></li><li><p>cat &gt; [ 파일 경로 &#x2F; 이름 ]</p><ul><li><p>같은 이름의 파일이 없는 경우 : 파일 새로 만들고 내용 입력하기</p></li><li><p>같은 이름의 파일이 있는 경우 : 파일 덮어쓰고 내용 새로 입력하기</p></li></ul></li><li><p>cat &gt;&gt; [ 파일 경로 &#x2F; 이름 ]</p><ul><li><p>같은 이름의 파일이 없는 경우 : 파일 새고 만들고 내용 입력하기</p></li><li><p>같은 이름의 파일이 있는 경우 : 기존 파일의 내용 밑에 ﻿이어쓰기</p></li></ul></li></ol><h1 id="첫줄-일괄-삭제해서"><a href="#첫줄-일괄-삭제해서" class="headerlink" title="첫줄 일괄 삭제해서"></a>첫줄 일괄 삭제해서</h1><p>find . -type f -name “*.csv” -exec sed -i “-new” ‘1d’ {} ;</p><h1 id="CSV"><a href="#CSV" class="headerlink" title="CSV"></a>CSV</h1><blockquote><p>Comma Separated Values</p></blockquote><h1 id="HBase와-Hive-차이는"><a href="#HBase와-Hive-차이는" class="headerlink" title="HBase와 Hive 차이는?"></a>HBase와 Hive 차이는?</h1><ul><li><p>HBase는 NoSQL 데이터베이스이고 Hive는 하둡잡을 실행하는 DW 프레임워크이다.</p></li><li><p>HBase는 HDFS위에서 동작하고, Hive는 MapReduce 위에서 동작한다.</p></li><li><p><strong>Schema flexibility:</strong> 다양한 구조와 포맷의 데이터를 처리하고 저장합니다.</p></li><li><p><strong>SQL-like queries:</strong> Hadoop에서</p></li><li><p><strong>Data management:</strong></p></li></ul><h1 id="Hive-DDL"><a href="#Hive-DDL" class="headerlink" title="Hive DDL"></a>Hive DDL</h1><p>하이브는 CSV 형식의 파일을 효과적으로 적재하기 위한 CSV 서데를 제공한다.</p><ul><li>Hive 0.14 버전부터 기본 지원<ul><li><a href="https://cwiki.apache.org/confluence/display/Hive/CSV+Serde">CSV 서데</a>를 이용하면  테이블 칼럼의 타입은 String 으로 고정</li></ul></li></ul><ul><li>sepratorChar: 칼럼간의 구분자</li><li>quoteChar: 칼럼의 값을 지정한 문자로 묶어준다.</li><li>escapeChar: 칼럼에 데이터를 입력할 때 파싱하지 않고 무시</li></ul><figure class="highlight sql"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">CREATE</span> <span class="keyword">TABLE</span> my_table</span><br><span class="line">(   </span><br><span class="line">   a string</span><br><span class="line">,   b string</span><br><span class="line">)</span><br><span class="line"><span class="type">ROW</span> FORMAT SERDE</span><br><span class="line"><span class="string">&#x27;org.apache.hadoop.hive.serde2.OpenCSVSerde&#x27;</span></span><br><span class="line"><span class="keyword">WITH</span> SERDEPROPERTIES</span><br><span class="line">(   &quot;separatorChar&quot; <span class="operator">=</span> &quot;,&quot;</span><br><span class="line">,   &quot;quoteChar&quot;     <span class="operator">=</span> &quot;&#x27;&quot;</span><br><span class="line">,   &quot;escapeChar&quot;    <span class="operator">=</span> &quot;\\&quot;</span><br><span class="line">)</span><br><span class="line">STORED <span class="keyword">AS</span> TEXTFILE;</span><br></pre></td></tr></table></figure><h2 id="참고한-게시글"><a href="#참고한-게시글" class="headerlink" title="[참고한 게시글]"></a>[참고한 게시글]</h2><p><a href="https://118k.tistory.com/451">https://118k.tistory.com/451</a></p>]]></content:encoded>
+      
+      
+      <category domain="https://dev-joy.github.io/categories/Data-Engineering/">Data Engineering</category>
+      
+      <category domain="https://dev-joy.github.io/categories/Data-Engineering/Hadoop-Ecosystem/">Hadoop Ecosystem</category>
+      
+      
+      <category domain="https://dev-joy.github.io/tags/Data-Engineering-Hive/">Data Engineering,Hive</category>
+      
+      
+      <comments>https://dev-joy.github.io/2024/01/05/CSV-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>태블로 UDT 4기 day10</title>
@@ -560,36 +588,6 @@
       
       
       <comments>https://dev-joy.github.io/2022/11/20/%EC%8B%A0%EC%B0%AC%EC%88%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Apache Spark 설치</title>
-      <link>https://dev-joy.github.io/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/</link>
-      <guid>https://dev-joy.github.io/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/</guid>
-      <pubDate>Thu, 03 Nov 2022 11:56:27 GMT</pubDate>
-      
-        
-        
-      <description>&lt;h1 id=&quot;Window-운영체제&quot;&gt;&lt;a href=&quot;#Window-운영체제&quot; class=&quot;headerlink&quot; title=&quot;Window 운영체제&quot;&gt;&lt;/a&gt;Window 운영체제&lt;/h1&gt;&lt;h2 id=&quot;1-Anaconda-설치하기&quot;&gt;&lt;a href=&quot;#1-</description>
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h1 id="Window-운영체제"><a href="#Window-운영체제" class="headerlink" title="Window 운영체제"></a>Window 운영체제</h1><h2 id="1-Anaconda-설치하기"><a href="#1-Anaconda-설치하기" class="headerlink" title="1. Anaconda 설치하기"></a>1. <a href="https://www.anaconda.com/products/distribution">Anaconda</a> 설치하기</h2><p>Anaconda Prompt에서 python 3.8 이상인지 확인</p><p><code>where python</code> 으로 Python이 어디에 설치되어 있는지 확인</p><p>pip : python package installer<br><code>where pip</code>으로 pip이 어디에 있는지 확인</p><p><code>pip --version</code>으로 pip 버전 확인</p><h2 id="2-JAVA"><a href="#2-JAVA" class="headerlink" title="2. JAVA"></a>2. <a href="https://www.oracle.com/kr/java/technologies/downloads/">JAVA</a></h2><p><code>java --version</code>으로 버전 확인<br>Extended Support Until이 긴 JAVA 8(LTS)을 다운받는다</p><h2 id="3-Spark"><a href="#3-Spark" class="headerlink" title="3. Spark"></a>3. <a href="https://spark.apache.org/downloads.html">Spark</a></h2><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/spark.png" class=""><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/spark_download.png" class=""><p>다운받은 파일을 원하는 위치에 이동한다.</p><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/spark_directory.png" class=""><h2 id="4-Hadoop"><a href="#4-Hadoop" class="headerlink" title="4. Hadoop"></a>4. <a href="https://github.com/cdarlint/winutils">Hadoop</a></h2><p>hadoop-2.7.7을 사용<br>다운받은 파일을 원하는 위치에 이동한다.</p><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/hadoop_directory.png" class=""><h2 id="5-Pyspark"><a href="#5-Pyspark" class="headerlink" title="5. Pyspark"></a>5. Pyspark</h2><p>Anaconda Prompt에서 <code>pip install pyspark</code></p><h2 id="환경변수-설정"><a href="#환경변수-설정" class="headerlink" title="환경변수 설정"></a>환경변수 설정</h2><p><strong style="color:red">주의사항: 파일경로에 빈칸이 존재하면 Error가 발생</strong></p><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/system_enviroment.png" class=""><p>JAVA_HOME<br>D:\ProgramFiles\Java\java-14-openjdk-14.0.2.12\bin</p><p>HADOOP_HOME<br>D:\ProgramFiles\Hadoop</p><p>SPARK_HOME<br>D:\ProgramFiles\Spark\spark-3.2.0-bin-hadoop2.7</p><p>PYSPARK_PYTHON<br><code>where python</code>을 해서 D:\ProgramFiles\Anaconda3\python.exe</p><p><strong>환경변수 &gt; 변수: Path를 선택하여 [편집]버튼을 누르고 아래와 같이 추가</strong></p><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/path.png" class=""><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/path_add.png" class=""><h1 id="Mac-운영체제"><a href="#Mac-운영체제" class="headerlink" title="Mac 운영체제"></a>Mac 운영체제</h1><h2 id="1-Anaconda-설치하기-1"><a href="#1-Anaconda-설치하기-1" class="headerlink" title="1. Anaconda 설치하기"></a>1. <a href="https://www.anaconda.com/products/distribution">Anaconda</a> 설치하기</h2><h2 id="2-which-python-으로-경로-찾기"><a href="#2-which-python-으로-경로-찾기" class="headerlink" title="2. which python 으로 경로 찾기"></a>2. <code>which python</code> 으로 경로 찾기</h2><h2 id="3-Homebrew-설치"><a href="#3-Homebrew-설치" class="headerlink" title="3. Homebrew 설치"></a>3. <a href="https://brew.sh/">Homebrew</a> 설치</h2><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta prompt_">#</span><span class="language-bash">JAVA 버전확인</span></span><br><span class="line">java -version</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">JAVA8 설치</span></span><br><span class="line">brew install --cask adoptopenjdk8</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">SCALA 설치</span></span><br><span class="line">brew install scala</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">Apache Spark 설치</span></span><br><span class="line">brew install apache-spark</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">pip 버전확인</span></span><br><span class="line">pip --version</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">pyspark 설치</span></span><br><span class="line">pip install pyspark</span><br><span class="line"><span class="meta prompt_"># </span><span class="language-bash">pyspark 터미널 뜨는지 확인</span></span><br><span class="line">pyspark</span><br></pre></td></tr></table></figure><img src="/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/pyspark.png" class="">]]></content:encoded>
-      
-      
-      <category domain="https://dev-joy.github.io/categories/Data-Engineering/">Data Engineering</category>
-      
-      <category domain="https://dev-joy.github.io/categories/Data-Engineering/Apache-Spark/">Apache Spark</category>
-      
-      
-      <category domain="https://dev-joy.github.io/tags/Data-Engineering/">Data Engineering</category>
-      
-      <category domain="https://dev-joy.github.io/tags/Apache-Spark/">Apache Spark</category>
-      
-      
-      <comments>https://dev-joy.github.io/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/#disqus_thread</comments>
       
     </item>
     
