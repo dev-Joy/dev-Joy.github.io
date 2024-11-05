@@ -9,6 +9,30 @@
 
 
     <url>
+        <loc>https://dev-joy.github.io/2024/07/03/Array/</loc>
+        <lastmod>2024-11-05T14:03:49.399Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://dev-joy.github.io/2024/11/05/Nginx/</loc>
+        <lastmod>2024-11-05T13:59:22.282Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://dev-joy.github.io/2023/02/08/Tools-%EC%86%8C%EA%B0%9C/</loc>
+        <lastmod>2024-10-23T07:39:51.138Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://dev-joy.github.io/2024/01/05/CSV-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0/</loc>
         <lastmod>2024-03-10T10:52:37.646Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,142 +43,6 @@
     <url>
         <loc>https://dev-joy.github.io/2023/03/01/Tableau-Embedding/</loc>
         <lastmod>2023-07-31T13:37:12.998Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/05/26/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day10/</loc>
-        <lastmod>2023-06-01T14:05:33.617Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/05/24/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day8/</loc>
-        <lastmod>2023-06-01T13:52:30.382Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/05/25/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day9/</loc>
-        <lastmod>2023-06-01T13:51:25.450Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/05/23/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day6-7/</loc>
-        <lastmod>2023-06-01T13:35:13.225Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/05/18/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day3-5/</loc>
-        <lastmod>2023-05-24T14:23:09.712Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/05/15/%ED%83%9C%EB%B8%94%EB%A1%9C-UDT-4%EA%B8%B0-day1-2/</loc>
-        <lastmod>2023-05-15T13:43:33.572Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/17/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day10/</loc>
-        <lastmod>2023-02-19T14:52:04.756Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/16/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day9/</loc>
-        <lastmod>2023-02-19T14:51:13.949Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/15/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day8/</loc>
-        <lastmod>2023-02-19T14:50:22.659Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/14/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day7/</loc>
-        <lastmod>2023-02-14T11:25:30.897Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/13/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day6/</loc>
-        <lastmod>2023-02-14T11:23:30.942Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/08/Tools-%EC%86%8C%EA%B0%9C/</loc>
-        <lastmod>2023-02-12T14:46:06.503Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/08/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day4/</loc>
-        <lastmod>2023-02-09T14:34:01.884Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/09/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day5/</loc>
-        <lastmod>2023-02-09T14:33:27.599Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/07/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day3/</loc>
-        <lastmod>2023-02-07T16:03:35.035Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/06/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day2/</loc>
-        <lastmod>2023-02-07T16:00:40.335Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/02/03/%ED%83%9C%EB%B8%94%EB%A1%9C-%EC%8B%A0%EB%B3%91%ED%9B%88%EB%A0%A8%EC%86%8C-17%EA%B8%B0-day1/</loc>
-        <lastmod>2023-02-07T16:00:37.220Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
