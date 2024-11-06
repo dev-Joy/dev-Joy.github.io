@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://dev-joy.github.io/2023/02/08/Tools-%EC%86%8C%EA%B0%9C/</loc>
+        <lastmod>2024-11-06T06:07:42.549Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://dev-joy.github.io/2023/03/01/Tableau-Embedding/</loc>
+        <lastmod>2024-11-06T06:06:57.876Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://dev-joy.github.io/2024/07/03/Array/</loc>
         <lastmod>2024-11-05T14:03:49.399Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -25,24 +41,8 @@
     </url>
 
     <url>
-        <loc>https://dev-joy.github.io/2023/02/08/Tools-%EC%86%8C%EA%B0%9C/</loc>
-        <lastmod>2024-10-23T07:39:51.138Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://dev-joy.github.io/2024/01/05/CSV-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0/</loc>
         <lastmod>2024-03-10T10:52:37.646Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2023/03/01/Tableau-Embedding/</loc>
-        <lastmod>2023-07-31T13:37:12.998Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
