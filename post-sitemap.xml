@@ -9,6 +9,38 @@
 
 
     <url>
+        <loc>https://dev-joy.github.io/2022/09/20/big-O/</loc>
+        <lastmod>2024-12-11T06:03:19.792Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://dev-joy.github.io/2022/09/24/Google-Machine-Learning-Bootcamp-2022-%EC%88%98%EB%A3%8C%ED%9B%84%EA%B8%B0/</loc>
+        <lastmod>2024-12-11T06:00:59.471Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://dev-joy.github.io/2022/11/20/%EC%8B%A0%EC%B0%AC%EC%88%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
+        <lastmod>2024-12-11T05:54:58.821Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://dev-joy.github.io/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/</loc>
+        <lastmod>2024-12-11T05:52:16.976Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://dev-joy.github.io/2023/02/08/Tools-%EC%86%8C%EA%B0%9C/</loc>
         <lastmod>2024-11-06T06:07:42.549Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -43,38 +75,6 @@
     <url>
         <loc>https://dev-joy.github.io/2024/01/05/CSV-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0/</loc>
         <lastmod>2024-03-10T10:52:37.646Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2022/11/20/%EC%8B%A0%EC%B0%AC%EC%88%98-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/</loc>
-        <lastmod>2022-12-15T10:11:24.592Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2022/09/24/Google-Machine-Learning-Bootcamp-2022-%EC%88%98%EB%A3%8C%ED%9B%84%EA%B8%B0/</loc>
-        <lastmod>2022-12-10T12:10:06.780Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2022/09/20/big-O/</loc>
-        <lastmod>2022-11-17T14:19:26.261Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://dev-joy.github.io/2022/11/03/Apache-Spark-%EC%84%A4%EC%B9%98/</loc>
-        <lastmod>2022-11-07T09:56:43.993Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
