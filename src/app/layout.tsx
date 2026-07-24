@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   },
   description: '김주희 개발 블로그',
   keywords: ['개발 블로그', 'Next.js'],
+  other: {
+    'google-adsense-account': 'ca-pub-3724440024644651',
+  },
   icons: {
     icon: `${process.env.BASE_PATH}/favicon.ico`,
   },
